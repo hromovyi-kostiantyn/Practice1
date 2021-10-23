@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Created-By: Громовий
+Main-Class: ua.edu.sumdu.j2se.pr1.MainClass
